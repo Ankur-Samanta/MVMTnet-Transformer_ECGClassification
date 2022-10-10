@@ -1,0 +1,2 @@
+# Multimodal_Transformer_CardiacAbnormailityECGClassification
+Multi-modal Transformer network implementation for multi-class classification of Cardiac abnormalities using clinical notes and ECG waveforms
